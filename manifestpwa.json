@@ -1,0 +1,18 @@
+{
+  "short_name": "test app",
+  "name": "test app",
+  "description": "we are testing",
+  "icons": [
+     
+    {
+      "src": "musta.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#999",
+  "background_color": "#333"
+}
